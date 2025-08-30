@@ -1,6 +1,8 @@
 import katz.effect.*
 import http.*
 
+import language.experimental.captureChecking
+
 @main def run =
   val resource = Client.get("google.com")
 
