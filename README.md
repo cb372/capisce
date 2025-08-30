@@ -79,5 +79,5 @@ message:
 ```
 
 If you want any chance of deciphering this error, I recommend reading [Nicolas
-Rinaudo's excellent post
+Rinaudo's excellent 
 post](https://nrinaudo.github.io/articles/capture_checking.html).
